@@ -1,2 +1,2 @@
 # carpeta1
-repositorio de prueba curso henry
+ Este proyecto es una prueba de lo que se sobre programacion, repositorio de prueba curso henry
