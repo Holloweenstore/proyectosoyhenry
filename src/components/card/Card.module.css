@@ -1,6 +1,6 @@
 .container {
     /* border: 0px solid grey; */
-    background-color: darkgray;
+    background-color: rgb(200, 255, 0);
     border-radius: 10px;
     width: 140px;
     height: 280px;
@@ -8,7 +8,7 @@
     padding: 10px;
     box-shadow: 0 0 10px black;
     &:hover {
-        box-shadow: 0 0 5px grey;
+        box-shadow: 0 0 5px rgba(121, 4, 189, 0.767);
     }
 }
 
@@ -26,7 +26,7 @@
 .buttonContainer button {
     margin: 2px 2px 0 0;
     border-radius: 3px;
-    background-color: pink;
+    background-color: rgba(24, 207, 85, 0.753);
     color: red;
     box-shadow: 0 2px 2px black;
     &:hover {
